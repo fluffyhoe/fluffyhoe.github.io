@@ -1,0 +1,35 @@
+/* Tag Selector */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+/* Class Selector */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* ID Selector */
+#alertButton {
+    margin-top: 20px;
+}
+
+/* Another Class Selector */
+.container {
+    margin-top: 30px;
+}
+
+/* Tag Selector */
+h1 {
+    color: #2e00d6;
+}
+
+button {
+    color: red
+}
+
+/* Tag Selector */
+footer {
+    background-color: #e9ecef;
+    padding: 10px;
+}
